@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying in Indian Institute Of Information Technology Nagpur.
 - 🌱 I’m currently learning mern stack,spring boot,topics in data Science.
-- 💬 Ask me about Data Structures and Algorithms/Java, React,javaScript,python.
+- 💬 Ask me about Data Structures and Algorithms,C++,C,Java,React,javaScript,python,typeScript.
 - 📫 How to reach me: ayushsoni1021@gmail.com
 - ⚡ Fun fact: Sometimes I prefer Tabs over Spaces.
