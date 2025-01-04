@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning mern stack,spring boot,topics in data Science.
 - 💬 Ask me about Data Structures and Algorithms, C++, C, Java, React, javaScript, python, typeScript.
 - 📫 How to reach me: ayushsoni1021@gmail.com
+- 🔧 Building skills to create efficient and scalable applications
 - ⚡ Fun fact: Sometimes I prefer Tabs over Spaces.
