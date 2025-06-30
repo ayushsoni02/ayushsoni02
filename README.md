@@ -4,7 +4,7 @@
 > [Loading Ideas... ██████▒▒▒▒]  
 > [Bootstrapping Projects... ✅] 
 
-- 🔭 I’m currently a student in Indian Institute of Information Technology, Nagpur.
+- 🔭 I’m currently a student at the **Indian Institute of Information Technology, Nagpur**.
   
 - 🌱 I’m currently learning **Solana Dev (Rust, Anchor), AI Integration, Advanced Next.js**
 
