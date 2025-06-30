@@ -4,15 +4,13 @@
 > [Loading Ideas... ██████▒▒▒▒]  
 > [Bootstrapping Projects... ✅] 
 
+- 🔭 I’m currently a student in Indian Institute of Information Technology, Nagpur.
+  
 - 🌱 I’m currently learning **Solana Dev (Rust, Anchor), AI Integration, Advanced Next.js**
-
-- 🔭 I’m currently working on **LinkNest**
-
-- 👯 I’m looking to collaborate on **CanvasFlow – Visual Whiteboard Tool**
 
 - 📝 I regularly write articles on [https://medium.com/@ayushsoni1021](https://medium.com/@ayushsoni1021)
 
-- 💬 Ask me about **Full-stack web2/Web3 apps, Solana programs, AI x Web apps, Hackathon project ideas**
+- 💬 Ask me about **Full-stack web2/Web3 apps, Solana programs, AI x Web apps, Backend Technologies**
 
 - 📫 How to reach me **ayushsoni1021@gmail.com**
 
@@ -21,6 +19,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ayxshsoni01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayxshsoni01" height="30" width="40" /></a>
+</p>
+<p align="left">
+<a href="https://linkedin.com/as241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Ayush Soni" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
