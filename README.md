@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushsoni02&label=Profile%20views&color=0e75b6&style=flat" alt="ayushsoni02" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushsoni02" alt="ayushsoni02" /></a> </p>
-
-- 🔭 I’m currently working on **LinkNest**
+> [Initializing Dev Mode... █▒▒▒▒▒▒▒▒▒]  
+> [Loading Ideas... ██████▒▒▒▒]  
+> [Bootstrapping Projects... ✅] 
 
 - 🌱 I’m currently learning **Solana Dev (Rust, Anchor), AI Integration, Advanced Next.js**
+
+- 🔭 I’m currently working on **LinkNest**
 
 - 👯 I’m looking to collaborate on **CanvasFlow – Visual Whiteboard Tool**
 
