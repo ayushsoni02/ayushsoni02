@@ -8,7 +8,7 @@
   
 - 🌱 I’m currently learning **Solana Dev (Rust, Anchor), AI Integration, Advanced Next.js**
 
-- 📝 I regularly write articles on [https://medium.com/@ayushsoni1021](https://medium.com/@ayushsoni1021)
+- 📝 I write articles on [https://medium.com/@ayushsoni1021](https://medium.com/@ayushsoni1021)
 
 - 💬 Ask me about **Full-stack web2/Web3 apps, Solana programs, AI x Web apps, Backend Technologies**
 
