@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently a student at the **Indian Institute of Information Technology, Nagpur**.
   
-- 🌱 I’m currently learning **Solana Dev (Rust, Anchor), AI Integration, Advanced Backend technologies**.
+- 🌱 currently learning **Solana Dev (Rust, Anchor), AI Integration, Advanced Backend technologies**.
 
 - 💬 Ask me about **Full-stack web2/Web3 apps, Solana programs, AI x Web apps, Backend Technologies**
 
