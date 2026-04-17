@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently a student at the **Indian Institute of Information Technology, Nagpur**.
 - 🌱 Learning **Solana Dev (Rust, Anchor), AI Integration, Advanced Backend technologies**.
-- 💬 Ask me about **Full-stack web2/Web3 apps, Solana programs, AI x Web apps, Backend Technologies**.
+- 💬 Ask me about **Full-stack web2/Web3 apps, System Design, Solana programs, AI x Web apps, Backend Technologies**.
 - 📫 How to reach me: **ayushsoni1021@gmail.com**
 - ⚡ Fun fact: **Sometimes I prefer Tabs over Spaces.**
 
